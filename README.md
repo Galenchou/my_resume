@@ -54,8 +54,7 @@
 
 
 ## 个人账号 
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+* https://github.com/Galenchou
 
 
 
